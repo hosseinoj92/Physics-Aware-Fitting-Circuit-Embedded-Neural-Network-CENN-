@@ -1,0 +1,24 @@
+# Modeling_ML_Scripts - Python Dependencies
+# Install with: pip install -r requirements.txt
+# Python 3.9+ recommended (3.10+ for type hints like str | None)
+
+# Core scientific computing
+numpy>=1.21.0,<3.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning & deep learning
+torch>=1.12.0
+scikit-learn>=1.0.0
+
+# Utilities
+tqdm>=4.62.0
+joblib>=1.1.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Optional: Symbolic regression (for regression_ANN.ipynb)
+# Uncomment if you need PySR or gplearn support:
+# pysr>=0.16.0
+# gplearn>=0.4.2
