@@ -365,3 +365,6 @@ If you use these scripts in your research, please cite the accompanying paper an
 ## License
 
 See the project root for license information.
+=======
+# Physics-Aware-Fitting-Circuit-Embedded-Neural-Network-CENN-
+>>>>>>> f28f2e964f336684df09ef65da81c2d89d4dd7bb
